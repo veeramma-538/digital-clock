@@ -1,0 +1,9 @@
+Start:
+======
+Just open index.html in any web browser (Chrome, Edge, Firefox, etc.).
+The digital clock will start running immediately.
+
+Stop:
+=====
+Simply close the browser tab or stop refreshing.
+Since it uses setInterval(), it runs only while the page is open.
