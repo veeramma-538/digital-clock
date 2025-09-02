@@ -1,0 +1,27 @@
+CSS (style.css) :-
+==================
+Uses Google Fonts (Poppins) for modern typography.
+
+Background is dark (#2f363e), making the glowing clock stand out.
+
+Circles are drawn using SVG with stroke animations.
+
+Each unit (hours, minutes, seconds) has its own color theme (Red, Orange, Green).
+
+Dots glow and rotate around the circle edges like analog clock hands.
+
+JavaScript (script.js) :-
+========================
+Runs a setInterval() function that updates every second.
+
+Fetches the current time using new Date().
+
+Converts 24-hour format to 12-hour format with AM/PM.
+
+Updates :-
+========
+Hours, Minutes, Seconds text in the HTML.
+
+Circle strokeDashoffset to show progress (like filling the ring).
+
+Dots rotation to simulate analog clock movement.
