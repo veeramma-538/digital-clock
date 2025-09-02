@@ -1,0 +1,6 @@
+When you open index.html in a browser, the clock displays:-
+==========================================================
+Digital time in numbers.
+Animated glowing circular progress bars.
+AM/PM indicator.
+The time updates every second automatically until you close the browser tab.
